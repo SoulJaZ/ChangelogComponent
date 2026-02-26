@@ -1,1 +1,1 @@
-https://github.com/SoulJaZ/ChangelogComponent
+https://roadmap.sh/projects/changelog-component
